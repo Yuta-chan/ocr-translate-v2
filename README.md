@@ -1,6 +1,6 @@
 # OCR and Translation Automation: Japanese to English
 
-This project automates the process of extracting text from PDF files in Japanese, translating it to English, and generating an annotated PDF. The workflow uses **Tesseract**, **Google Cloud Vision**, and **Deep Translator** to provide an end-to-end solution for OCR and translation tasks.
+This project automates the process of extracting text from PDF files in Japanese, translating it to English, and generating an annotated PDF. The workflow uses **Tesseract** and **Google Translator API** to provide an end-to-end solution for OCR and translation tasks.
 
 ## Features
 
